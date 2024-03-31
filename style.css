@@ -17,7 +17,7 @@
     width: 100px;
 }
 .logo{
-    background-image: url("imagefolder/amazon1.png");
+    background-image: url("amazon1.png");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -119,7 +119,7 @@ margin-left: 15px;
     font-weight: 700;
 }
 .hero-section{
-    background-image:url("imagefolder/makeupimage.jpg") ;
+    background-image:url("makeupimage.jpg") ;
     background-size: cover;
     height: 400px;
     display: flex;
@@ -204,7 +204,7 @@ ul p{
     align-items: center;
 }
 .logo{
-    background-image: url("imagefolder/amazon1.png");
+    background-image: url("amazon1.png");
     background-size: cover;
     height: 50px;
     width: 100px;
